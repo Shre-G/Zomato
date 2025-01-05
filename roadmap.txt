@@ -1,0 +1,3 @@
+general txt
+cp
+dsa
